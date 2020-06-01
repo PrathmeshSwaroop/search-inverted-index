@@ -1,2 +1,2 @@
 # search-inverted-index
-Very simple search project showcasing inverted indexing technoque
+Very simple search project showcasing inverted indexing technique
